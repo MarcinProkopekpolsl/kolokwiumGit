@@ -1,2 +1,6 @@
 mm
+
 zmiananb
+
+zmiana01
+prostaWersja
