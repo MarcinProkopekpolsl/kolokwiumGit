@@ -6,3 +6,4 @@ zmiana02
 prostaWersja
 zmiana3
 Zmiana4
+zmiana5
