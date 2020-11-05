@@ -4,3 +4,5 @@ zmiananb
 
 zmiana02
 prostaWersja
+zmiana3
+Zmiana4
